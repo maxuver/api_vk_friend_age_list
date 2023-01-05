@@ -45,7 +45,7 @@ def result(arr):
 
 if 1 == 1:
     ACCESS_TOKEN = '17da724517da724517da72458517b8abce117da17da72454d235c274f1a2be5f45ee711'
-    username = 'uverpool'
+    username = 'maxuver'
     paramsId = {'access_token': ACCESS_TOKEN, 'user_ids': username}
     id = getId(paramsId)
     paramsFr={'access_token':ACCESS_TOKEN, 'user_id': id}
